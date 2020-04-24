@@ -1,5 +1,5 @@
 # Natural Language Processing
-This is the overview and the documents I used during the NLP and ML class at the 5th annual Hisar Coding Summit!
+This is the overview of the documents I used during the NLP and ML class at the 5th annual Hisar Coding Summit!
 
 * link to the powerpoint: https://docs.google.com/presentation/d/1MePbnCs8Hka4Hf57cBjJiOIgzECEDMRPUBqOlnxufN8/edit?usp=sharing
 
